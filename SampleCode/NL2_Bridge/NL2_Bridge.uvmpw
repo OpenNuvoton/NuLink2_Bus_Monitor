@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProjectWorkspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="project_mpw.xsd">
+
+  <SchemaVersion>1.0</SchemaVersion>
+
+  <Header>### uVision Project, (C) Keil Software</Header>
+
+  <WorkspaceName>WorkSpace</WorkspaceName>
+
+  <project>
+    <PathAndName>.\KEIL\USCI_I2C_Monitor.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\KEIL\SPI_Monitor.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\KEIL\RS485_Monitor.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\KEIL\CAN_Monitor.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\KEIL\NL2_Monitor.uvproj</PathAndName>
+    <NodeIsActive>1</NodeIsActive>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+</ProjectWorkspace>
